@@ -1,0 +1,4 @@
+user-agent: *
+disallow: /downloads/
+
+sitemap: https://www.example.com/sitemap.xml
